@@ -4,7 +4,9 @@
 
 **RUMENS - GRUPO DE ESTUDOS EM PECUÁRIA DE RUMINANTES DO SERTAO SERGIPANO**
 
-O laboratório é composto por 1 servidor de dados e 5 computadores que se conectam via cabeamento Cat6
+Técinco responsável: Kauã Ribeiro de Almeida Nascimento
+
+* O laboratório é composto por 1 servidor de dados e 5 computadores que se conectam via cabeamento Cat6
 ou Wifi, visto que ambas as opções estão disponíveis, fazendo assim uma conexão com o Switch principal
 que supre todo o condomínio.
 
