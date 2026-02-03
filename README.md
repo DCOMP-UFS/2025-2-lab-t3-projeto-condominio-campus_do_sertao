@@ -24,3 +24,13 @@ Técinco responsável: Gabriel Ramos de Carvalho
 **Acesso:** http://3.80.221.230/
 **Git:** https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-gabriel-carvalho77
 ------------------------------------------------------------------------
+
+## Laboratório 3
+
+**GEPPETTO - GRUPO DE ESTUDOS E PESQUISA EM POLÍTICAS, EMPREEDEDORISMO, TRANSAÇÕES, TECNOLOGIAS e OPERAÇÕES**
+
+Técnico responsável: Harrison Santos Siqueira
+
+**Acesso:** http://54.90.194.209/
+**Git:** https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-harrisonsts
+------------------------------------------------------------------------
