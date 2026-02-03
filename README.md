@@ -13,3 +13,14 @@ que supre todo o condomínio.
 **Acesso:** http://34.226.209.178/
 **Git:** https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-KauaRAN
 ------------------------------------------------------------------------
+
+
+## Laboratório 2
+
+**GEMS - GRUPO DE ESTUDOS EM MELHORAMENTO VEGETAL DO SEMIÁRIDO**
+
+Técinco responsável: Gabriel Ramos de Carvalho
+
+**Acesso:** http://3.80.221.230/
+**Git:** https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-gabriel-carvalho77
+------------------------------------------------------------------------
