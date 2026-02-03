@@ -34,3 +34,13 @@ Técnico responsável: Harrison Santos Siqueira
 **Acesso:** http://54.90.194.209/
 **Git:** https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-harrisonsts
 ------------------------------------------------------------------------
+
+## Laboratório 4
+
+**Grupo de pesquisa Conservação e Manejo de Fauna Silvestre**
+
+Técinco responsável: João Paulo Andrade Santos
+
+**Acesso:** http://54.235.3.88/
+**Git:** https://github.com/DCOMP-UFS/2025-2-lab-t3-projeto-lab-site-jpasx.git
+------------------------------------------------------------------------
